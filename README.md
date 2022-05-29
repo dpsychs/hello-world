@@ -5,3 +5,6 @@ Github tutorial
 <br>
 This is the file that is being presented in the Github "Hello World" tutorial.<br>
 I can use mark-up language in this file to make things **bold** etc. There is a markdown cheatsheet linked in the tutorial in case I need it. 
+This looks like a good place to learn more about markdown language: [Markdown Guide](https://www.markdownguide.org)
+  
+ 
